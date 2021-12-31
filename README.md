@@ -20,7 +20,7 @@ I'm Fazeel Ahmed! I'm a **Fullstack JS Developer**:web:, looking to solve **real
 
 <br/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack & Tools</h3>
 
 💻 &nbsp; 
 
