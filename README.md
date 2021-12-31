@@ -115,7 +115,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/thefazeelqureshi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fazeel%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/thefazeelqureshi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Fazeel__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/thefazeelqureshi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Fazeel%20Ahmed_-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From [Fazeel Ahmed](https://github.com/thefazeelqureshi)
