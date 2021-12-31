@@ -14,12 +14,23 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript','C#','C++','C','Python'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL','MSSQL','Firebase'];
-  frontend = ['React', 'Vue','Svelte', 'Jquery','Alpine JS'];
-  backend = ['Node', 'Strapi','Svelte', 'GraphQL'];
+  languages  = ['JavaScript','Typescript','C#','C++','C','Python'];
+  frameworks={
+    web=['HTML5','CSS3','SASS','LESS'];
+    css=['Ant Design','Tailwind','Bulma','Chakra','Bootstrap','Samentic UI'];
+    frontend = ['React','Next JS', 'Vue','Nuxt JS','Svelte', 'Jquery','Alpine JS','Gatsby'];  
+    backend = ['Node', 'Strapi','Sanity'];
+    libraries=['typeGraphql']
+  }
+  databases  = ['SQLite','MySQL', 'MongoDB', 'PostgreSQL','MSSQL','Firebase','AmazonDynamoDB'];
+  orms=['Prisma','Sequelize'];
+  ides=['Sublime Text','Atom','VSCode','Visual Studio']
   api=['Graphql','Rest','Soap'];
-  
+  design =['XD','Figma','Canva'];
+  versionControl=['Git','Github','Gitlab','Bitbucket'];
+  forums=['Stackoverflow','Reddit','Quora',''];
+  hostingSaas=['AWS','Firebase','Heroku','Netlify'];
+  testing=['Chai','Mocha','Jest','Jasmine']
 }
 ```
 
