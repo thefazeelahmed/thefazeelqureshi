@@ -1,7 +1,6 @@
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 
-👨‍🎓 Computer Science Graduate (Class of 2019) 
 
 ```js
 import SoftwareDeveloper from 'fazeelahmed';
@@ -11,7 +10,7 @@ class Bio extends SoftwareDeveloper {
   title    = 'Software Engineer';
   company  = 'Remote | Freelancer';
   location = 'Rawalipndi, PK';
-  graduate = '2019';
+  graduated = '2019';
 }
 
 class Skills extends SoftwareDeveloper {
@@ -21,7 +20,8 @@ class Skills extends SoftwareDeveloper {
     css=['Ant Design','Tailwind','Bulma','Chakra','Bootstrap','Samentic UI'];
     frontend = ['React','Next JS', 'Vue','Nuxt JS','Svelte', 'Jquery','Alpine JS','Gatsby'];  
     backend = ['Node', 'Strapi','Sanity'];
-    libraries=['typeGraphql']
+    libraries=['Type-graphql','Express.js','JWT','Socket.io','Strapi','React Router','Redux','Apollo-GraphQL','Vuetify','jQuery','Solidity'];
+
   };
   databases  = ['SQLite','MySQL', 'MongoDB', 'PostgreSQL','MSSQL','Firebase','AmazonDynamoDB'];
   orms=['Prisma','Sequelize'];
