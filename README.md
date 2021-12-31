@@ -4,7 +4,7 @@
 👨‍🎓 Computer Science Graduate (Class of 2019) 
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'fazeelahmed';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Fazeel Ahmed';
@@ -21,7 +21,7 @@ class Skills extends SoftwareDeveloper {
     frontend = ['React','Next JS', 'Vue','Nuxt JS','Svelte', 'Jquery','Alpine JS','Gatsby'];  
     backend = ['Node', 'Strapi','Sanity'];
     libraries=['typeGraphql']
-  }
+  };
   databases  = ['SQLite','MySQL', 'MongoDB', 'PostgreSQL','MSSQL','Firebase','AmazonDynamoDB'];
   orms=['Prisma','Sequelize'];
   ides=['Sublime Text','Atom','VSCode','Visual Studio']
