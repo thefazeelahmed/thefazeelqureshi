@@ -11,6 +11,7 @@ class Bio extends SoftwareDeveloper {
   title    = 'Software Engineer';
   company  = 'Remote | Freelancer';
   location = 'Rawalipndi, PK';
+  graduate = '2019';
 }
 
 class Skills extends SoftwareDeveloper {
