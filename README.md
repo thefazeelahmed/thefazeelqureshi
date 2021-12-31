@@ -10,10 +10,9 @@ I'm Fazeel Ahmed! I'm a **Fullstack JS Developer**:web:, looking to solve **real
 [![Telegram](https://img.shields.io/badge/-@thefazeelqureshi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/thefazeelqureshi)
 [![Instagram](https://img.shields.io/badge/-thefazeelqureshi-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thefazeelqureshi)
 [![Linkedin](https://img.shields.io/badge/-thefazeelqureshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thefazeelqureshi)
-
+![](https://komarev.com/ghpvc/?username=thefazeelqureshi&style=flat)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=thefazeelqureshi&style=flat)
 <a href="https://github.com/thefazeelqureshi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thefazeelqureshi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefazeelqureshi&theme=buefy&layout=compact" />
