@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Fazeel.</h2>
+<h2> Hey there! I'm Fazeel Ahmed.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -118,4 +118,4 @@
 <a href="https://www.instagram.com/thefazeelqureshi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Fazeel__-blue?style=flat-square&logo=instagram"></a>
 </p>
 
-⭐️ From [Bombpeer](https://github.com/bombpeer)
+⭐️ From [Fazeel Ahmed](https://github.com/thefazeelqureshi)
