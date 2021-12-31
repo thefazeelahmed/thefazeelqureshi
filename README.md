@@ -6,9 +6,23 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/thefazeelqureshi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fazeel%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/thefazeelqureshi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Fazeel%20Ahmed_-blue?style=flat-square&logo=instagram"></a>
+</p>
+
+
+
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=thefazeelqureshi&style=flat)
 
+<a href="https://github.com/thefazeelqureshi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thefazeelqureshi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefazeelqureshi&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -104,19 +118,5 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 
 <br/>
 
-<a href="https://github.com/thefazeelqureshi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thefazeelqureshi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefazeelqureshi&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/thefazeelqureshi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fazeel%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/thefazeelqureshi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Fazeel%20Ahmed_-blue?style=flat-square&logo=instagram"></a>
-</p>
 
 ⭐️ From [Fazeel Ahmed](https://github.com/thefazeelqureshi)
