@@ -45,8 +45,8 @@ class Skills extends SoftwareDeveloper {
 
 <!-- Profile View Count -->
 <a href="https://github.com/thefazeelqureshi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thefazeelqureshi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefazeelqureshi&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thefazeelqureshi&theme=buefy&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefazeelqureshi&theme=buefy&layout=compact&count_private=true" />
 </a>
 
 <br/>
