@@ -13,6 +13,7 @@ class Bio extends SoftwareDeveloper {
   graduated = '2019';
 }
 
+<!--
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript','Typescript','C#','C++','C','Python'];
   frameworks={
@@ -51,5 +52,5 @@ class Skills extends SoftwareDeveloper {
 
 <br/>
 
-
+-->
 ⭐️ From [Fazeel Ahmed](https://github.com/thefazeelqureshi)
