@@ -13,8 +13,7 @@ class Bio extends SoftwareDeveloper {
   graduated = '2019';
 }
 
-<!--
-class Skills extends SoftwareDeveloper {
+/* class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript','Typescript','C#','C++','C','Python'];
   frameworks={
     web=['HTML5','CSS3','SASS','LESS'];
@@ -33,7 +32,9 @@ class Skills extends SoftwareDeveloper {
   forums=['Stackoverflow','Reddit','Quora',''];
   hostingSaas=['AWS','Firebase','Heroku','Netlify'];
   testing=['Chai','Mocha','Jest','Jasmine']
+  
 }
+*/
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
